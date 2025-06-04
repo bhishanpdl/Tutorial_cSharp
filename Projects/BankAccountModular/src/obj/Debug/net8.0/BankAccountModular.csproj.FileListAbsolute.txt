@@ -1,0 +1,15 @@
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\bin\Debug\net8.0\BankAccountModular.exe
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\bin\Debug\net8.0\BankAccountModular.deps.json
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\bin\Debug\net8.0\BankAccountModular.runtimeconfig.json
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\bin\Debug\net8.0\BankAccountModular.dll
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\bin\Debug\net8.0\BankAccountModular.pdb
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.AssemblyInfoInputs.cache
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.AssemblyInfo.cs
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.csproj.CoreCompileInputs.cache
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.sourcelink.json
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.dll
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\refint\BankAccountModular.dll
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.pdb
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\BankAccountModular.genruntimeconfig.cache
+C:\Users\Sumedha\github\Tutorial_cSharp\Projects\BankAccountModular\src\obj\Debug\net8.0\ref\BankAccountModular.dll
