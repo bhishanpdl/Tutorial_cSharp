@@ -35,7 +35,7 @@ namespace BankAccountModular.Models
         {
             var report = new System.Text.StringBuilder();
             report.AppendLine("Date\t\tAmount\tBalance\tNote");
-            
+
             decimal runningBalance = 0;
             foreach (var item in transactions)
             {
